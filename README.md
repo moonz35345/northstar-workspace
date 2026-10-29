@@ -1,5 +1,7 @@
 # Northstar Workspace
 
+**[View the live demo →](https://dashboard-northstar.netlify.app/)**
+
 A premium, responsive portfolio demo for fictional European agency **Northstar Studio**. All people, companies, addresses, documents and financial records are fictional. Email addresses use the reserved `.example` domain.
 
 The brief supplied two framework alternatives. This implementation combines analytics and the client portal in **Next.js App Router + React + TypeScript + Tailwind CSS v4 + Recharts**. Next.js replaces the alternative Vite build system; there is one cohesive application.
