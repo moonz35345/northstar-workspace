@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+.env*
+.qa/
+.codex/
+.agents/
+*.log
+.DS_Store
+Thumbs.db
